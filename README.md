@@ -1,2 +1,2 @@
 # zfrjzdagd-adgafg
-Adamm.msa
+worker: node bot.js
